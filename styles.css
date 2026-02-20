@@ -1,0 +1,23 @@
+.container {
+     background-color: #ffffff;
+     padding: 10px;
+     text-align: center;
+     font-family: monospace;
+}
+
+.navbar {
+     text-align: left;
+     font-family: monospace;
+}
+
+p {
+     font-size: 13px;
+}
+
+.footer {
+     position: relative;
+     color: white;
+     text-align: center;
+     margin-top: 20px;
+     padding: 10px;
+}
