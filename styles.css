@@ -15,9 +15,25 @@ p {
 }
 
 .footer {
-     position: relative;
+     position: fixed-bottom;
      color: white;
      text-align: center;
-     margin-top: 20px;
-     padding: 10px;
+     margin-top: 50px;
+}
+
+
+#eligible-discount {
+     margin-top: 10px;
+}
+
+#PcExpressText {
+     color: white;
+     margin-top: 10px;
+     font-size: 15px;
+}
+
+#VillmanText {
+     color: white;
+     margin-top: 10px;
+     font-size: 15px;
 }
